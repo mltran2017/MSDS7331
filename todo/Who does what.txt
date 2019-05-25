@@ -1,0 +1,47 @@
+=============================================================================================
+==These are the columns to visualize, in some of the below sections some of these are removed (see each sub-section)
+Year, Organization Group Code (or Organization Group), Department Code, Union Code (or Union), Job Family Code (or Job Family), Job Code (or Job), Salaries, Overtime, Other Salaries, Total Salary, Retirement, Health and Dental, Other Benefits, Total Benefits, Total Compensation
+=============================================================================================
+
+--Business Understanding - SAM
+Wording for business
+wording for simple statistics
+
+--Data Meaning Type - ZACK
+Add 'scale' and better description of each
+Make it into a table - SAM
+
+--Data Quality - ZACK
+Paragraph at beginning then individual description at end (MAI summary in merged doc)
+
+-----Simple Statistics - LEI
+Paragraph about it
+.describe()
+distriubtion plot (of all)
+
+-----Visualize Attributes - MAI
+Paragraph
+Numerical are the most interesting
+Plot them and their visualization
+
+-----Explore Joint Attributes - LEI
+==GET RID OF: Salaries, Overtime, Other Salaries, Total Compensation==
+Paragraph that talk about them
+Pair Plots, correlation, cross-tabulation, group-wise averages, etc. 
+Violin Plot - ZACK
+
+-----Explore Attributes and Class (everything vs Total Salaries) - LEI
+==GET RID OF: Salaries, Overtime, Other Salaries, Total Compensation==
+Paragraph Explain the Joint Attributes
+Total Salaries vs everything else
+
+-----New Feature - ZACK
+==GET RID OF: Salaries, Overtime, Other Salaries, Total Compensation==
+Paragraph - Talk about low med high (kde plot)
+
+-----Exceptional Work - LEI/ZACK - Whoever gets to it first
+==GET RID OF: Salaries, Overtime, Other Salaries, Total Compensation==
+Paragraph
+Scree Plot - ZACK
+PCA, no good linear seperation for 2D
+Andrews Plot (normalized and non-normalized)
