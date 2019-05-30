@@ -6,5 +6,3 @@ https://zoom.us/j/9488722401
 
 Mai Loan's Zoom link: https://zoom.us/j/252846123
 
-Lei's Zoom link:
-https://zoom.us/j/465189386
