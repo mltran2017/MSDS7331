@@ -1,0 +1,23 @@
+Dataset preparation and split
+60/20/20 includes 20 for validation
+
+
+Two classification tasks
+Random Forest - Lei & Sam
+KNN - Zack & Mai Loan
+
+Third
+SVM - Sam & Lei
+
+xgboost including explanation - Lei
+parameter tuning - Lei
+
+Evaluation Metric
+AUC
+
+Deployment - Sam
+
+Target Merge 
+7/6 - Sam
+7/7 - Emergency back-up - Zack
+
