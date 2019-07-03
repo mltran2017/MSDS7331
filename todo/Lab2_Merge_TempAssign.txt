@@ -1,0 +1,38 @@
+Write something about:
+the PCA				Zack	Why don’t do this
+T-statistic DO SOMETHING	Zack	
+Using the correlation		Zack
+Explain method of normalization (mean 0, std 1)		Zack
+
+Describe the final dataset	LEI
+
+Talk about AUC as evaluation metric	Sam
+
+Test split data 6/2/2 why	Zack
+
+Parameter tuning:
+KNN			Zack
+Random Forest		Lei
+SVM			Lei
+
+Analyze results		Zack/Lei
+Visualize all		Lei
+
+Advantages:
+XGBoost		Lei
+Random Forest		Lei
+SVM			Lei
+KNN			Zack
+Statistical test for statistical test from Unit 7.5		Zack
+
+Describe attributes used+…
+Feature Importance plot	Lei
+Correlation		Zack
+T statistic		
+
+Deployment		Sam
+
+Explain XGBoost	Lei
+Grid search XGBoost, Random Forest	Lei
+MAYBE ensemble model	Zack
+
